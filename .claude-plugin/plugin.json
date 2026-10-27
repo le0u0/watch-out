@@ -1,7 +1,7 @@
 {
   "name": "watch-out",
   "version": "1.0.0",
-  "description": "Shows plan usage, the last request’s share, and context window use",
+  "description": "Shows context window use and plan usage",
   "author": { "name": "Leo Ho" },
   "types": "./types/index.d.ts"
 }

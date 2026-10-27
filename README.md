@@ -2,6 +2,13 @@
 
 Tracks plan usage and context window use in one mod. On by default.
 
+## Install
+
+```
+/plugin marketplace add le0u0/community
+/plugin install watch-out@community
+```
+
 ## Use
 
 - `/watch-out` shows or hides both trackers. `/watch-out on` and `/watch-out off` set it.

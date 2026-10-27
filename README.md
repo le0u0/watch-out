@@ -2,6 +2,13 @@
 
 Tracks plan usage and context window use in one mod. On by default.
 
+## Install
+
+```
+git clone https://github.com/le0u0/watch-out
+claude --plugin-dir ./watch-out
+```
+
 ## Use
 
 - `/watch-out` shows or hides both trackers. `/watch-out on` and `/watch-out off` set it.

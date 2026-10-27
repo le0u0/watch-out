@@ -5,8 +5,8 @@ Tracks plan usage and context window use in one mod. On by default.
 ## Install
 
 ```
-/plugin marketplace add le0u0/community
-/plugin install watch-out@community
+/plugin marketplace add le0u0/le0u0.ai
+/plugin install watch-out@le0u0.ai
 ```
 
 ## Use

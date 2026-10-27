@@ -5,8 +5,8 @@ Tracks plan usage and context window use in one mod. On by default.
 ## Install
 
 ```
-git clone https://github.com/le0u0/watch-out
-claude --plugin-dir ./watch-out
+/plugin marketplace add le0u0/community
+/plugin install watch-out@community
 ```
 
 ## Use
